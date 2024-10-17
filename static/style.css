@@ -1,0 +1,42 @@
+/* Font */
+* {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.container-fluid {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,83,98,1) 0%, rgba(183,183,223,1) 72%);
+}
+
+.content1 {
+    padding: 100px;
+}
+
+.content2 {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.content3 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.content4 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 400px;
+    padding-bottom: 50px;
+
+}
+
+.content5{
+    padding-top: 200px;
+
+}
